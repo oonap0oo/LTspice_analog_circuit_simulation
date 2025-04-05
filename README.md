@@ -8,5 +8,5 @@ Files for use with the analog circuit simulation tool LTspice
 
 Chua circuit exhibiting chaotic behaviour.
 Simulation using modern sofware but done old school using a text file containing the circuit description.
-The ampifier is modelled using a coltage controlled voltage source source.
+The ampifier is modelled using a voltage controlled voltage source source.
 
